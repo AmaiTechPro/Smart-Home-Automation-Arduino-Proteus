@@ -115,34 +115,43 @@ Load the Arduino .hex or .ino file
 Run the simulation
 
 
-📸 System Simulation Preview
+📸 System Simulation Results
 
-🔧 Complete System Overview
+🔧 Complete System Schematic (Idle State)
 
-
-
-
-⏰ RTC-Based Lighting Control
-
-Automated lighting triggered based on real-time scheduling.
+This shows the full circuit design in its default (idle) condition before any triggers are activated.
 
 
 
-🚶 Motion Detection & Security
+🌡️ Temperature Monitoring & Automated Cooling
 
-PIR sensor detects motion and activates lighting and alerts.
-
-
-
-🌙 LDR-Based Night Activation
-
-System activates automation features under low-light conditions.
+The system monitors temperature and activates cooling mechanisms automatically when thresholds are exceeded.
 
 
 
-🧪 Full System Functional Test
+⏰ RTC-Based Main/House Lighting
 
-All modules operating together in an integrated simulation.
+Lighting is controlled based on real-time scheduling using the RTC module.
+
+
+
+🚶 Motion-Triggered Security & Lighting
+
+Motion detection using a PIR sensor triggers both security alerts and lighting.
+
+
+
+🌙 LDR-Based Night Security Activation
+
+Security system activates only under low-light (night) conditions using LDR input.
+
+
+
+🧪 Comprehensive System Functional Test
+
+All subsystems working together in an integrated simulation environment.
+
+
 
 
 
