@@ -121,7 +121,7 @@ Run the simulation
 
 This shows the full circuit design in its default (idle) condition before any triggers are activated.
 
-
+https://github.com/AmaiTechPro/Smart-Home-Automation-Arduino-Proteus/blob/756164bae7276eb09367203f20092479120521a0/images/system_overview.png
 
 🌡️ Temperature Monitoring & Automated Cooling
 
