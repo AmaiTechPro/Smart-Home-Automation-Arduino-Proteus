@@ -126,31 +126,33 @@ This shows the full circuit design in its default (idle) condition before any tr
 🌡️ Temperature Monitoring & Automated Cooling
 
 The system monitors temperature and activates cooling mechanisms automatically when thresholds are exceeded.
-
+![image alt](https://github.com/AmaiTechPro/Smart-Home-Automation-Arduino-Proteus/blob/96a02aef34003e50ce4b3c1af6218604dd1e5b62/images/temperature_control.png)
 
 
 ⏰ RTC-Based Main/House Lighting
 
 Lighting is controlled based on real-time scheduling using the RTC module.
 
-![image alt](
+![image alt](https://github.com/AmaiTechPro/Smart-Home-Automation-Arduino-Proteus/blob/96a02aef34003e50ce4b3c1af6218604dd1e5b62/images/rtc_lighting.png)
 
 🚶 Motion-Triggered Security & Lighting
 
 Motion detection using a PIR sensor triggers both security alerts and lighting.
-
+![image alt](https://github.com/AmaiTechPro/Smart-Home-Automation-Arduino-Proteus/blob/96a02aef34003e50ce4b3c1af6218604dd1e5b62/images/motion_security.png)
 
 
 🌙 LDR-Based Night Security Activation
 
 Security system activates only under low-light (night) conditions using LDR input.
 
+![image alt](https://github.com/AmaiTechPro/Smart-Home-Automation-Arduino-Proteus/blob/96a02aef34003e50ce4b3c1af6218604dd1e5b62/images/ldr_activation.png)
 
 
 🧪 Comprehensive System Functional Test
 
 All subsystems working together in an integrated simulation environment.
 
+![image alt](https://github.com/AmaiTechPro/Smart-Home-Automation-Arduino-Proteus/blob/96a02aef34003e50ce4b3c1af6218604dd1e5b62/images/full_system_test.png)
 
 
 
